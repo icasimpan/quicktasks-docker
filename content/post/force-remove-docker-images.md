@@ -1,7 +1,7 @@
 ---
 title: "Force Remove Docker Images"
 date: 2019-09-24T00:20:25+08:00
-tags: [docker]
+tags: [docker, container, images, remove, forced]
 draft: false
 ---
 
