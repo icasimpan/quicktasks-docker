@@ -1,7 +1,7 @@
 ---
 title: "Docker Build Cannot Connect to Internet"
 date: 2019-09-24T00:20:25+08:00
-tags: [docker]
+tags: [docker, internet]
 draft: false
 ---
 
