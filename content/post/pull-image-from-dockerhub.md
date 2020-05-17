@@ -1,7 +1,7 @@
 ---
 title: "Pull an Image from DockerHub"
 date: 2019-09-24T00:20:25+08:00
-tags: [docker]
+tags: [docker, images, dockerhub]
 draft: false
 ---
 
