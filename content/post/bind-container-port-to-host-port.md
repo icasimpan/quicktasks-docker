@@ -8,3 +8,5 @@ draft: false
 ```
 docker run -d --name testOnly -p 6379:6379 redis:latest
 ```
+
+NOTE: Always read the format of -p as `host:container`.
