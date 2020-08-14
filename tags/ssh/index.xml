@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ssh on Docker | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-docker/tags/ssh/</link>
+    <description>Recent content in ssh on Docker | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Aug 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-docker/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SSH to Docker Container</title>
+      <link>https://ismael.casimpan.com/quicktasks-docker/ssh-to-docker-container/</link>
+      <pubDate>Thu, 13 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-docker/ssh-to-docker-container/</guid>
+      <description>Check first the names of your container:
+docker ps  Technically though, it&amp;rsquo;s just running a shell, so run as follows:
+docker exec -it &amp;lt;container-name&amp;gt; /bin/bash  In case you see this error:
+OCI runtime exec failed: exec failed: container_linux.go:349: starting container process caused &amp;quot;exec: \&amp;quot;/bin/bash\&amp;quot;: stat /bin/bash: no such file or directory&amp;quot;: unknown  You can probe a little and check any available shell. Run:
+docker exec -it &amp;lt;container-name&amp;gt; ls -l /bin/  You may recognize a few shell like:</description>
+    </item>
+    
+  </channel>
+</rss>
