@@ -8,3 +8,11 @@ draft: false
 ```
 docker logs <friendly-name|container-id>
 ```
+
+You can tail it much like tailing ordinary logs:
+
+```
+docker logs -f --tail=5 <friendly-name|container-id>
+```
+
+which means: "start tailing at current last 5 entries of the logs"
