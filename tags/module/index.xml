@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>module on Docker | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-docker/tags/module/</link>
+    <description>Recent content in module on Docker | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Sep 2019 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-docker/tags/module/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install PHP Module Inside Dockerfile</title>
+      <link>https://ismael.casimpan.com/quicktasks-docker/dockerfile-install-php-module/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-docker/dockerfile-install-php-module/</guid>
+      <description>Add this to Dockerfile
+RUN docker-php-ext-install mysqli  See details in https://github.com/docker-library/php/issues/279</description>
+    </item>
+    
+  </channel>
+</rss>

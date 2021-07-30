@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/container/</loc>
+    <lastmod>2020-08-13T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/post/</loc>
+    <lastmod>2020-08-13T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/docker/</loc>
+    <lastmod>2020-08-13T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/ssh/</loc>
+    <lastmod>2020-08-13T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/ssh-to-docker-container/</loc>
+    <lastmod>2020-08-13T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/</loc>
+    <lastmod>2020-08-13T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/troubleshooting/</loc>
+    <lastmod>2020-08-13T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/beginners/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/bind/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/bind-container-port-to-host-port/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/centos/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/check-all-running-docker-process/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/check-logs-of-container/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/daemon/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/docker-build-cannot-connect-to-internet/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/docker-files-within-filesystem/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/docker-compose/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/dockerce/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/dockerfile/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/dockerhub/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/filesystem/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/force-remove-docker-images/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/forced/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/getting-started-in-docker/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/how-to-login-dockerhub/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/images/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/install/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/install-docker-ce-centos/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/install-docker-compose/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/interface/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/internet/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/linux/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/linux-filesystem/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/login/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/logs/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/more-details-about-container/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/ports/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/process/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/pull-image-from-dockerhub/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/remove/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/remove-all-docker-containers/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/removing-docker0-interface/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/rerun-docker-container-instance/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/run-container-as-daemon/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/starter/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/using-dockerfile/</loc>
+    <lastmod>2019-09-24T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/dockerfile-install-php-module/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/module/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/tags/command/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-docker/run-command-from-container-instead-of-locally/</loc>
+  </url>
+  
+</urlset>

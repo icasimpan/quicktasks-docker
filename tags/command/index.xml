@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>command on Docker | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-docker/tags/command/</link>
+    <description>Recent content in command on Docker | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-docker/tags/command/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Run Command from Container Instead of Locally</title>
+      <link>https://ismael.casimpan.com/quicktasks-docker/run-command-from-container-instead-of-locally/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-docker/run-command-from-container-instead-of-locally/</guid>
+      <description>I encounter an issue where I don&amp;rsquo;t have local composer installed but I need to run one.
+Solution is to run it on the fly from docker container:
+docker run --rm --interactive --tty --volume &amp;lt;directory_path_to_your_composer.json&amp;gt;:/app composer install  </description>
+    </item>
+    
+  </channel>
+</rss>

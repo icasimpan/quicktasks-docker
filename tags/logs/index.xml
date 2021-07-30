@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>logs on Docker | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-docker/tags/logs/</link>
+    <description>Recent content in logs on Docker | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2019 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-docker/tags/logs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Check Logs of a Container</title>
+      <link>https://ismael.casimpan.com/quicktasks-docker/check-logs-of-container/</link>
+      <pubDate>Tue, 24 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-docker/check-logs-of-container/</guid>
+      <description>docker logs &amp;lt;friendly-name|container-id&amp;gt;  You can tail it much like tailing ordinary logs:
+docker logs -f --tail=5 &amp;lt;friendly-name|container-id&amp;gt;  which means: &amp;ldquo;start tailing at current last 5 entries of the logs&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
